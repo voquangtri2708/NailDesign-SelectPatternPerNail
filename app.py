@@ -4,12 +4,23 @@ from PIL import Image, ImageTk
 import cv2
 import numpy as np
 from inference_sdk import InferenceHTTPClient
+from dotenv import load_dotenv
+import os
 
-# Roboflow API client
+load_dotenv()
+key_roboflow = os.getenv("ROBLOFLOW_API_KEY")
+if not key_roboflow:
+    raise ValueError("Vui lòng đặt biến môi trường ROBLOFLOW_API_KEY với giá trị API key của bạn.")
+# Đảm bảo rằng bạn đã cài đặt các thư viện cần thiết:
+# pip install opencv-python numpy pillow inference-sdk python-dotenv    
+
+# Khởi tạo client với URL và API key
+# Bạn cần thay thế giá trị này bằng API key của bạn
 CLIENT = InferenceHTTPClient(
     api_url="https://serverless.roboflow.com",
-    api_key="AC1B0JvfpzCNKv5tLBt5"
+    api_key=key_roboflow
 )
+
 
 class NailColorPatternApp:
     def __init__(self, root):
