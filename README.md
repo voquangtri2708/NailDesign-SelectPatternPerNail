@@ -50,7 +50,6 @@ python app.py
 3. **Điều chỉnh Alpha:** Kéo thanh trượt để thay đổi độ trong suốt của màu móng.
 4. **Xem kết quả:** Ảnh sẽ được hiển thị trực tiếp trên giao diện.
 ![alt text](image.png)
-![alt text](image.png)
 ---
 ## Lưu ý
 
