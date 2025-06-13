@@ -19,8 +19,8 @@
 
 1. **Clone project:**
    ```
-   git clone https://github.com/yourusername/ixink_nail.git
-   cd ixink_nail
+   git clone https://github.com/voquangtri2708/NailDesign-SelectPatternPerNail.git
+   cd NailDesign-SelectPatternPerNail
    ```
 
 2. **Cài đặt thư viện:**
