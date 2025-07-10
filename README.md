@@ -19,8 +19,8 @@
 
 1. **Clone project:**
    ```
-   git clone https://github.com/yourusername/ixink_nail.git
-   cd ixink_nail
+   git clone https://github.com/voquangtri2708/NailDesign-SelectPatternPerNail.git
+   cd NailDesign-SelectPatternPerNail
    ```
 
 2. **Cài đặt thư viện:**
@@ -49,7 +49,6 @@ python app.py
 2. **Chọn Màu:** Nhấn nút 🎨 để chọn màu mong muốn cho móng tay.
 3. **Điều chỉnh Alpha:** Kéo thanh trượt để thay đổi độ trong suốt của màu móng.
 4. **Xem kết quả:** Ảnh sẽ được hiển thị trực tiếp trên giao diện.
-![alt text](image.png)
 ![alt text](image.png)
 ---
 ## Lưu ý
