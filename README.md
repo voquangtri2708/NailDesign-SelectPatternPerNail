@@ -60,8 +60,8 @@ python app.py
 
 **Chúc bạn sáng tạo với bộ móng của mình!**
 
-## ☕ Buy Me a Coffee
-☕ MB Bank: 0347830406 - VO QUANG TRI 
+## ☕ Buy Me a Coffees
+
 <img src="qr.png" width="50%">
 ## **Liên Hệ**  
 📧 Email: voquangtri2708@gmail.com  
