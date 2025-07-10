@@ -63,7 +63,7 @@ python app.py
 
 ## ☕ Buy Me a Coffee
 ☕ MB Bank: 0347830406 - VO QUANG TRI 
-
+<img src="qr.png" width="50%">
 ## **Liên Hệ**  
 📧 Email: voquangtri2708@gmail.com  
 🔗 GitHub: [voquangtri2708](https://github.com/voquangtri2708)  
